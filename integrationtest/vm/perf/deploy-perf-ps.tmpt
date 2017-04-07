@@ -1,0 +1,11 @@
+import ./deploy.tmpt
+
+cephPrimaryStorageName = ceph-ps
+cephPrimaryStorageMonUrls = root:password@ceph1;root:password@ceph2;root:password@ceph3
+cephPrimaryStorageDataVolumePoolName =
+cephPrimaryStorageRootVolumePoolName =
+cephPrimaryStorageImageCachePoolName =
+
+cephBackupStorageName = ceph-bs
+cephBackupStorageMonUrls = root:password@ceph1;root:password@ceph2;root:password@ceph3
+cephBackupStoragePoolName =

@@ -1,0 +1,4 @@
+<testConfig>
+    <scenarioConfig>scenario-ceph-3-nodes.xml</scenarioConfig>
+    <scenarioConfigTemplate>scenario-ceph-3-nodes.tmpt</scenarioConfigTemplate>
+</testConfig>

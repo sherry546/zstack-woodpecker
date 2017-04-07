@@ -1,0 +1,10 @@
+import ../scenario.tmpt
+import ./deploy-ceph-ps.tmpt
+vmName1 = debug_scenario1
+vmName2 = debug_scenario2
+vmName3 = debug_scenario3
+vmName4 = debug_scenario4
+vmInstranceOfferingUuid2 = 123456
+imageUuid2 = 123456
+cephStorageOfferingUuid = 123456
+volumeName = test_volume
