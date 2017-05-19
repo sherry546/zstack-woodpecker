@@ -35,5 +35,6 @@
 	<case timeout='840' repeat='1' noparallel='True'>test_allocator_strategy_crt_vm_cpu.py</case>
 	<case timeout='840' repeat='1' noparallel='True'>test_allocator_strategy_crt_vm_mem.py</case>
 	<case timeout='840' repeat='1' noparallel='True'>test_allocator_strategy_crt_vm_use_all_cpu.py</case>
+        <case timeout='600' repeat='1'>migrate/test_migrate_vm_ops2.py</case>
     </suite>
 </integrationTest>
